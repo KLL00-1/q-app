@@ -80,6 +80,20 @@
       "variants": ["тип свечения", "химический элемент", "характеристика микропроцессора"],
       "correct": "химический элемент",
       "result": false
+    },
+    {
+      "id": 11,
+      "question": "Что из перечисленного не является функцией js",
+      "variants": ["const elements = {}", "()=>{}", "let changeElement = () => {}"],
+      "correct": "const elements = {}",
+      "result": false
+    },
+    {
+      "id": 12,
+      "question": "Кто такой Жак Ив Кусто",
+      "variants": ["ученый", "киноактер", "музыкальный продюсер"],
+      "correct": "ученый",
+      "result": false
     }
   ]
 }
