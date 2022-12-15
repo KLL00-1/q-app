@@ -45,6 +45,13 @@
       "variants": ["3 421 °C", "2 367 °C", "1 050 °C"],
       "correct": "3 421 °C",
       "result": false
+    },
+    {
+      "id": 6,
+      "question": "В каком году родился А.С. Пушкин",
+      "variants": ["1679", "1799", "1845"],
+      "correct": "1799",
+      "result": false
     }
   ]
 }
